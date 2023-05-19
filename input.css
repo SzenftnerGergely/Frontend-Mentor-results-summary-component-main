@@ -1,0 +1,8 @@
+:root {
+    --color-violet: 78 33 202;
+    --color-persian: 36 33 202;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
